@@ -1,0 +1,25 @@
+{
+  "name": "myowndocker",
+  "version": "1.0.0",
+  "description": "My first very own docker container",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/omerome83/MyOwnDocker.git"
+  },
+  "keywords": [
+    "node.js"
+  ],
+  "author": "Romel Williams",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/omerome83/MyOwnDocker/issues"
+  },
+  "homepage": "https://github.com/omerome83/MyOwnDocker#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
