@@ -1,6 +1,6 @@
 FROM node:19-alpine
-WORKDIR /myowndocker
+WORKDIR /app
 COPY . .
 RUN npm install
-CMD ["node", "app.js"]
+CMD ["node", "start"]
 EXPOSE 3000
