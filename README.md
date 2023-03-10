@@ -1,2 +1,2 @@
 # MyOwnDocker
- My first very own docker image
+ A simple web server which can be deployed using docker.
